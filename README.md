@@ -40,7 +40,7 @@ I have used Visual Studio Code (vs code) editor to develop this project.
 
 - Fully responsive UI with Tailwind CSS
 
-**Tools & Technologies Used**
+**Tools & Technologies Used:**
 
 **Frontend:**
 
@@ -120,3 +120,8 @@ A strong portfolio project demonstrating knowledge of full-stack development, re
 
 **OUTPUT SCREENSHOTS**
 
+![Image](https://github.com/user-attachments/assets/f9b4b1eb-85db-47a0-aa2c-c48af87aadf9)
+![Image](https://github.com/user-attachments/assets/d01ccf8d-b34d-4f00-ba4b-c42a81027172)
+![Image](https://github.com/user-attachments/assets/765cae05-5789-4e5d-bb59-22c1aa7742d2)
+![Image](https://github.com/user-attachments/assets/32a79697-bfe9-4524-88fd-a55ac5819396)
+![Image](https://github.com/user-attachments/assets/b0b13021-0caf-4a15-aa6f-520f6935ad52)
